@@ -1,0 +1,9 @@
+
+  @media screen and (max-width:760px){
+    .hero{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  
+  }
